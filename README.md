@@ -6,10 +6,9 @@ This is a simple expense tracker application built using React. It allows users 
 
 - Add new expenses with a title, amount, and date.
 - Categorize expenses into different categories (e.g., food, transportation, entertainment).
-- View a list of all expenses and sort them by date or amount.
+- View a list of all expenses.
 - Filter expenses based on selected categories.
 - See a summary of total expenses and spending by category.
-- Responsive design for mobile and desktop devices.
 
 ## Installation
 
