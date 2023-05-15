@@ -2,12 +2,14 @@
 
 This is a simple expense tracker application built using React. It allows users to keep track of their expenses, categorize them, and analyze their spending habits.
 
+
 ## Features
 
 - Add new expenses with a title, amount, and date.
 - View a list of all expenses.
 - Filter expenses based on selected categories.
 - See a summary of total expenses, budget and amount remaining.
+
 
 ## Installation
 
@@ -37,6 +39,7 @@ This is a simple expense tracker application built using React. It allows users 
 
    The application should now be running on [http://localhost:3000](http://localhost:3000).
 
+
 ## Usage
 
 1. Open the application in your web browser.
@@ -49,11 +52,13 @@ This is a simple expense tracker application built using React. It allows users 
 
 5. View the summary section to see the total expenses and spending by category.
 
+
 ## Technologies Used
 
 - React
 - HTML
 - CSS
+
 
 ## Folder Structure
 
