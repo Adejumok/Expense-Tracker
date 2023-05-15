@@ -43,15 +43,11 @@ This is a simple expense tracker application built using React. It allows users 
 
 2. Click on the "Add Expense" button to add a new expense.
 
-3. Fill in the required fields (title, amount, and date) and select a category.
+3. Fill in the required fields (title and amount) and select a category.
 
 4. Click "Save" to add the expense. The expense will appear in the list of expenses.
 
-5. To filter expenses by category, use the category filter dropdown.
-
-6. Click on the column headers in the expense list to sort the expenses by date or amount.
-
-7. View the summary section to see the total expenses and spending by category.
+5. View the summary section to see the total expenses and spending by category.
 
 ## Technologies Used
 
