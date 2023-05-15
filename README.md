@@ -1,21 +1,20 @@
-# Expense Tracker Application
+# Expense Tracker
 
 This is a simple expense tracker application built using React. It allows users to keep track of their expenses, categorize them, and analyze their spending habits.
 
 ## Features
 
 - Add new expenses with a title, amount, and date.
-- Categorize expenses into different categories (e.g., food, transportation, entertainment).
 - View a list of all expenses.
 - Filter expenses based on selected categories.
-- See a summary of total expenses and spending by category.
+- See a summary of total expenses, budget and amount remaining.
 
 ## Installation
 
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your-username/expense-tracker.git
+   git clone https://github.com/Adejumok/expense-tracker.git
    ```
 
 2. Navigate to the project directory:
