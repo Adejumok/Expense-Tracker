@@ -72,8 +72,8 @@ expense-tracker/
   │   ├── App.js             # Main application component
   │   ├── index.js           # Entry point
   │   └── index.css          # Entry style
-  ├── public/                # Public assets
   ├── .gitignore             # Git ignore file
+  ├── public/                # Public assets
   ├── package.json           # NPM package configuration
   └── README.md              # Project readme
 ```
