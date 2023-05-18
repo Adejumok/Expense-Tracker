@@ -73,9 +73,11 @@ expense-tracker/
   │   ├── index.js           # Entry point
   │   └── index.css          # Entry style
   ├── .gitignore             # Git ignore file
+  ├── LICENSE                # License file
   ├── public/                # Public assets
-  ├── package.json           # NPM package configuration
-  └── README.md              # Project readme
+  ├── README.md              # Project readme
+  ├── package-lock.json      # Describes NPM package configuration
+  └── package.json           # NPM package configuration
 ```
 
 ## Contributing
