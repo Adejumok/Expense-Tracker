@@ -69,9 +69,9 @@ expense-tracker/
   ├── src/
   │   ├── components/        # React components
   |   ├── context/           # Context for sharing data across components
-  │   ├── data/              # Data for expenses and categories
   │   ├── App.js             # Main application component
-  │   └── index.js           # Entry point
+  │   ├── index.js           # Entry point
+  │   └── index.css           # Entry point
   ├── public/                # Public assets
   ├── .gitignore             # Git ignore file
   ├── package.json           # NPM package configuration
