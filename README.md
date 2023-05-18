@@ -68,6 +68,7 @@ The project structure is organized as follows:
 expense-tracker/
   ├── src/
   │   ├── components/        # React components
+  |   ├── context/           # 
   │   ├── data/              # Data for expenses and categories
   │   ├── App.js             # Main application component
   │   └── index.js           # Entry point
